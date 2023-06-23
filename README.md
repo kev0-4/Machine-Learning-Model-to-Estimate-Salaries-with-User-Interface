@@ -8,6 +8,8 @@ The model was trained using Lasso algorithm.<br>
 A HTML/CSS ui is built to interact with this model. <br>
 
 ## ***ScreenShots***
+![ezgif com-gif-maker](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/8c454c16-f329-4ea2-ab5b-3bca83face4e)
+
 ![Screenshot (75)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/313d68b5-6143-4ea0-91fd-b60d1701aa54)
 ![Screenshot (76)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/1b9e91b8-244b-44b9-af93-584efa44863d)
 ![Screenshot (77)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/2fd307c8-db2f-44da-b8d4-0f10a1df7a2d)
