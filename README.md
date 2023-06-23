@@ -15,7 +15,7 @@ A HTML/CSS ui is built to interact with this model. <br>
 
 ## ***Installation***
 before running the app you have to local server.
-1.To start it, go to ./server and pass 'run server.py' in cmd<br>
+1.To start it, go to ./server and pass 'python server.py' in cmd<br>
 2.You'll need to change host urls in code to your host urls (will be shown in cmd after running the server)<br>
 3.Go to ./client and open app.html<br>
 4.FIll out the feilds and click predict salary button to get the result
