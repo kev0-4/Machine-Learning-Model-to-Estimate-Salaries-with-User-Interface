@@ -3,9 +3,11 @@ Machine Learning Model trained using Lasso with a HTML/CSS UI built on top of it
 This repository contains a machine learning model and a web application for predicting salaries based on various factors such as age, years of experience, gender, education, and position.
 
 ## ***Project Overview***
-This project was aimed to train a machine learning model for predicting salaries based on various factors: Age, Education Level, Job Title, Gender, Experience.<br>
+The Salary Prediction web application is a machine learning-based tool that predicts the salary of individuals based on various features such as age, gender, education, years of experience, and job position. It utilizes a pre-trained machine learning model to make accurate salary estimates<br>
+The project is implemented with a modular and scalable approach, allowing for easy maintenance and future enhancements.<br>
 The model was trained using Lasso algorithm.<br>
-A HTML/CSS ui is built to interact with this model. <br>
+The web application has a user-friendly interface where users can input their information and receive an estimated salary as the output. The application makes use of JavaScript for client-side functionality<br>
+And server side was built using Flask Framework (python)
 
 ## ***ScreenShots***
 ![Screenshot (75)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/313d68b5-6143-4ea0-91fd-b60d1701aa54)
