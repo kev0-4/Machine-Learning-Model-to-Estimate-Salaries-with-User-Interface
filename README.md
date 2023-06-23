@@ -1,6 +1,5 @@
 # Salary Estimation Machine Learning Model & Webapp
-Machine Learning Model trained using Lasso with a HTML/CSS UI built on top of it.<br>
-This repository contains a machine learning model and a web application for predicting salaries based on various factors such as age, years of experience, gender, education, and position.
+This repository contains a Machine Learning model and a web application for predicting salaries based on various factors such as age, years of experience, gender, education, and position.
 
 ## ***Project Overview***
 The Salary Prediction web application is a machine learning-based tool that predicts the salary of individuals based on various features such as age, gender, education, years of experience, and job position. It utilizes a pre-trained machine learning model to make accurate salary estimates<br>
