@@ -21,15 +21,15 @@ before running the app you have to local server.
 4.FIll out the feilds and click predict salary button to get the result
 
 ## ***Technologies Used***
-Python
-scikit-learn (Python machine learning library)
-Pandas
-Numpy
-Flask (Python web framework)
-HTML
-CSS
-JavaScript
-jQuery (JavaScript library)
+Python<br>
+scikit-learn (Python machine learning library)<br>
+Pandas<br>
+Numpy<br>
+Flask (Python web framework)<br>
+HTML<br>
+CSS<br>
+JavaScript<br>
+jQuery (JavaScript library)<br>
 
 
 
