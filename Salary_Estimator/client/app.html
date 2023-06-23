@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Salary Prediction Machine Learning Model</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="app.css">
+</head>
+<body>
+    <div class="img"></div>
+    <form class="form">
+        <h2>Age</h2>
+        <input class="Age" type="text" id="uiAge" name="Age" value="100">
+        <h2>Years of Experience</h2>
+        <input class="YOE" type="text" id="uiYearsOfExperience" name="Years of Experience" value="100">
+        <h2>Gender</h2>
+        <div class="switch-field">
+            <input type="radio" id="radio-gender-1" name="uiGender" value="Male"/>
+            <label for="radio-gender-1">Male</label>
+            <input type="radio" id="radio-gender-2" name="uiGender" value="Female"/>
+            <label for="radio-gender-2">Female</label>
+        </div>
+    </form>
+    <form class="form">
+        <h2>Education</h2>
+        <div class="switch-field">
+            <input type="radio" id="radio-education-1" name="uiEducation" value="Bachelor's"/>
+            <label for="radio-education-1">Bachelor's</label>
+            <input type="radio" id="radio-education-2" name="uiEducation" value="Master's"/>
+            <label for="radio-education-2">Master's</label>
+            <input type="radio" id="radio-education-3" name="uiEducation" value="PhD"/>
+            <label for="radio-education-3">PhD</label>
+        </div>
+        <h2>Position</h2>
+        <div>
+            <select class="Position" name="Position" id="uiPosition">
+                <option value="" disabled selected>Choose a Job Title</option>
+                <option>Manager</option>
+
+            </select>
+        </div>
+            <button class="submit" onclick="onClickedEstimateSalary()" type="button">Estimate Salary</button>
+            <div id="uiEstimateSalary" class="result"><h2></h2></div>
+    <!--</form>-->
+</body>
+</html>
