@@ -1,4 +1,4 @@
-![Screenshot (75)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/b9df8b31-bd7e-4eb4-b7f5-ce115a28e339)# Salary Estimation Machine Learning Webapp
+# Salary Estimation Machine Learning Webapp
 Machine Learning Model trained using Lasso with a HTML/CSS UI built on top of it.<br>
 This repository contains a machine learning model and a web application for predicting salaries based on various factors such as age, years of experience, gender, education, and position.
 
@@ -12,6 +12,7 @@ A HTML/CSS ui is built to interact with this model. <br>
 ![Screenshot (76)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/1b9e91b8-244b-44b9-af93-584efa44863d)
 ![Screenshot (77)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/2fd307c8-db2f-44da-b8d4-0f10a1df7a2d)
 ![Screenshot (78)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/ace86eb5-f89d-44cb-999b-72314b63085c)
+![Screenshot (75)](https://github.com/kev0-4/Salary-Estimator-ML-webapp/assets/110706642/b9df8b31-bd7e-4eb4-b7f5-ce115a28e339)
 
 ## ***Installation***
 before running the app you have to local server.
